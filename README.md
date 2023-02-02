@@ -6,3 +6,6 @@ This project is for me and for people who will stumble across my profile. This p
 
 <h2> Sample Code </h2>
 printf ("Hello World"); 
+
+<h2> How to Install </h2>
+• Step 1: Download the zip file or use git clone
