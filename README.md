@@ -9,3 +9,7 @@ printf ("Hello World");
 
 <h2> How to Install </h2>
 • Step 1: Download the zip file or use git clone
+
+Commit 1
+Commit 2
+
